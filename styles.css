@@ -30,15 +30,13 @@ body {
     background-color: #1F618D;
     color: #fff;
     height: 8rem;
-    
-    
-    
-
 }
+
 .name, .title{
     margin-left: 12rem;
     
 }
+
 .title{
     margin-top:0;
 }
@@ -46,13 +44,9 @@ body {
 .box .second-section {
     flex-grow: 1;
     flex-basis: auto;
-    display: flex;
-    
-    
-    
-
-    
+    display: flex;    
 }
+
 .info-section{
     border-right: 1px dotted black;
 }
@@ -60,7 +54,6 @@ body {
 .row-config {
     margin-top: 0.5rem;
     margin-left:0.5rem;
-    
 }
 .row-config *{
     margin:0;
@@ -108,7 +101,6 @@ p+.check-cred-btn {
     margin-top: 2rem;
 
 }
-
 .xp-prof  p{
     margin:0;
 }
@@ -120,6 +112,8 @@ p+.check-cred-btn {
     margin-bottom: 1rem;
     color: rgba(60, 60, 60, 0.5)
 }
+
+
 .form-acd{
     margin-left:2rem;
     margin-top: 2rem;
